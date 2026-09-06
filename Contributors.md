@@ -174,6 +174,7 @@ vijyot silare
 - Roberto de Oliveira Brito Filho
 - Sahil S
 - Millebisous
+- arda-bit
 - Matthew Kirk
 - Sumit Maji (https://github.com/Sumit-Maji07)
 - [Sagnik Saha](https://github.com/Sagnik143)
